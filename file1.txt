@@ -2,3 +2,4 @@
 "EEE branch"
 "civil branch"
 "ECE branch"
+"AI and ML branch"
